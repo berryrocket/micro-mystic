@@ -1,0 +1,1 @@
+Cette pièce doit être imprimée sans modification.
