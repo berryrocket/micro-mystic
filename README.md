@@ -1,22 +1,11 @@
 # BerryRocket Micro-Mystic
 
-This repository contains every file to make the micro mystic rocket.
+This is the official repository for BerrRocket Micro-Mystic.
+It contains every file to start your micro rocket ! 
+You can use file as-is to clone the model (with STL file and a 3D printer) or you can modify parts of the rocket with STEP files included.
+See [wiki of BerryRocket](https://berryrocket.com/wiki) to have more information.
 
-![alt tag](https://github.com/berryrocket/Micro-Mystic/blob/main/Vue%20d'ensemble.png)
-
-## Folder organisation
-
-- Avionic : contains every things about the avionic/electronic of the rocket
-- Tools : mecanic tools to help with the fabrication of the rocket
-- 3D STL files : every mecanical file in STL format for an easy replication
-- All others .step files : mecanical source files to modify the rocket as you like
-
-## Organisation des dossiers
-
-- Avionique : contient tout ce qui concerne l'avionique/électronique de la fusée.
-- Outils : outils mécaniques pour aider à la fabrication de la fusée.
-- Fichiers 3D STL : tous les fichiers mécaniques au format STL pour une reproduction facile.
-- Tous les autres fichiers .step : fichiers sources mécaniques pour modifier la fusée selon vos préférences.
+![alt tag](./docs/overview.jpg)
 
 # Licence CC BY-NC-SA 4.0
 ![cc-by-nc-sa](https://user-images.githubusercontent.com/1367183/214925257-8b6ebb08-f1ee-49e5-85f3-be77d70f8bf6.png)
